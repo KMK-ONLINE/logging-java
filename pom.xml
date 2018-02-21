@@ -136,11 +136,11 @@
         <artifactId>nexus-staging-maven-plugin</artifactId>
         <version>1.6.5</version>
         <extensions>true</extensions>
-        <configuration>
+        <!--configuration>
           <serverId>ossrh</serverId>
           <nexusUrl>https://oss.sonatype.org/</nexusUrl>
           <autoReleaseAfterClose>true</autoReleaseAfterClose>
-        </configuration>
+        </configuration-->
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
