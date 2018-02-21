@@ -10,11 +10,11 @@
   <description>Support classes for logging using logback and slf4j</description>
   <url>https://github.com/spotify/logging-java</url>
 
-  <parent>
+  <!--parent>
     <groupId>org.sonatype.oss</groupId>
     <artifactId>oss-parent</artifactId>
     <version>9</version>
-  </parent>
+  </parent-->
 
   <licenses>
     <license>
