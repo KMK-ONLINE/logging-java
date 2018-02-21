@@ -24,12 +24,12 @@
     </license>
   </licenses>
 
-  <scm>
+  <!--scm>
     <connection>scm:git:https://github.com/spotify/logging-java</connection>
     <developerConnection>scm:git:git@github.com:spotify/logging-java</developerConnection>
     <url>https://github.com/spotify/logging-java</url>
     <tag>HEAD</tag>
-  </scm>
+  </scm-->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
